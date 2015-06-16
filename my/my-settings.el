@@ -28,4 +28,10 @@
 
 (load custom-file)
 
+(setq-default flycheck-disabled-checkers
+  (append flycheck-disabled-checkers
+    '(javascript-jshint json-jsonlist)))
+
+(flycheck-add-mode 'javascript-eslint 'web-mode)
+
 (provide 'my-settings)

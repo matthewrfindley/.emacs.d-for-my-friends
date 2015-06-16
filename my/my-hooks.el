@@ -19,7 +19,6 @@
 (add-hook 'before-save-hook 'auto-make-directory)
 (add-hook 'after-save-hook 'executable-make-buffer-file-executable-if-script-p)
 (add-hook 'emms-player-started-hook 'emms-show)
-
 (add-hook
  'magit-status-mode-hook
  (lambda ()
@@ -42,8 +41,10 @@
 (add-hook
  'js-mode-hook
  (lambda ()
-   (auto-indent-mode)
-   (linum-mode)))
+   (set-node-modules-path)
+   (flycheck-mode 1)
+   (auto-indent-mode 1)
+   (linum-mode 1)))
 
 (add-hook
  'coffee-mode-hook
@@ -95,5 +96,14 @@
  'slime-repl-mode-hook
  (lambda ()
    (paredit-mode +1)))
+
+(add-hook
+ 'web-mode-hook
+ (lambda ()
+   (auto-complete-mode 1)
+   (linum-mode 1)
+   (set-node-modules-path)
+   (flycheck-mode)
+   ))
 
 (provide 'my-hooks)
