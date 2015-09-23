@@ -1,6 +1,9 @@
 (let ((default-directory "~/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
 
+(require 'my-functions)
+(set-exec-path-from-external)
+
 (mapc
  'require
  '(slime

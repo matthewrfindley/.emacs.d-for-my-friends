@@ -41,13 +41,11 @@
 (add-hook
  'js-mode-hook
  (lambda ()
-   (set-node-modules-path)
    (flycheck-mode 1)
    (auto-indent-mode 1)
    (linum-mode 1)))
 
-(add-hook
- 'coffee-mode-hook
+(add-hook 'coffee-mode-hook
  (lambda ()
    (smart-indent-rigidly-mode)))
 

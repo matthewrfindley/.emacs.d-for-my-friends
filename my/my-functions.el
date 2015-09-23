@@ -218,4 +218,14 @@ WIP on branchname: short-sha commit-message"
   (let ((node-path (concat (simp-project-root) "/node_modules/.bin")))
     (setq-local exec-path (add-to-list 'exec-path node-path))))
 
+(defun set-exec-path-from-external ()
+  (interactive)
+  (let ((external-path (split-string
+   (shell-command-to-string
+    "/bin/zsh -ci 'echo $PATH' 2> /dev/null") ":")))
+    (print external-path)
+    (dolist (path external-path)
+      (unless (member path exec-path)
+        (add-to-list 'exec-path path)))))
+
 (provide 'my-functions)
