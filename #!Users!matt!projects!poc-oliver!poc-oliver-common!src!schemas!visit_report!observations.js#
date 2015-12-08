@@ -1,0 +1,124 @@
+const observationConform = require('../../custom_validators').observation;
+
+const observationValidation = {
+  required: true,
+  conform: observationConform,
+  messages: {
+    required: 'Select an answer',
+    conform: 'Select an answer'
+  }
+};
+
+const ObservationsSchema = {
+  review: {
+    label: 'Observations',
+    permission: 'canEditVisitReport',
+    navigateTo: 'visitReportForm'
+  },
+  sections: [{
+    name: 'visitObservations',
+    title: 'Visit Observations',
+    rows: [{
+      fields: [{
+        name: 'parentOnTimeForVisit',
+        label: 'Parent arrived on time for visit?',
+        validation: observationValidation
+      }, {
+        name: 'childOnTime',
+        label: 'Child arrived on time for the visit?',
+        validation: observationValidation
+      }, {
+        name: 'parentStayedForEntireVisit',
+        label: 'Parent stayed for entire visit?',
+        validation: observationValidation
+      }, {
+        name: 'parentPlannedAppropriateSnacksOrActivities',
+        label: 'Parent planned food, snacks, or activities that were age appropriate?',
+        validation: observationValidation
+      }, {
+        name: 'homeChildSafeAndChildProof',
+        label: 'If visit was in home, was the home child-safe and child-proof for age of child?',
+        validation: observationValidation
+      }]
+    }]
+  }, {
+    name: 'parentParticipationInActivities',
+    title: 'Parent Participation in Activities',
+    rows: [{
+      fields: [{
+        name: 'gamesAndPlaying',
+        label: 'Games/Playing',
+        validation: observationValidation
+      }, {
+        name: 'artsAndCrafts',
+        label: 'Arts/Crafts',
+        validation: observationValidation
+      }, {
+        name: 'storiesAndReading',
+        label: 'Stories/Reading',
+        validation: observationValidation
+      }, {
+        name: 'singingAndMusic',
+        label: 'Singing/Music',
+        validation: observationValidation
+      }, {
+        name: 'cookingAndEating',
+        label: 'Cooking/Eating',
+        validation: observationValidation
+      }, {
+        name: 'homework',
+        label: 'Homework',
+        validation: observationValidation
+      }, {
+        name: 'childCare',
+        label: 'Child Care',
+        description: 'e.g. change diapers, combing hair, etc.',
+        validation: observationValidation
+      }, {
+        name: 'other',
+        label: 'Other',
+        validation: observationValidation
+      }]
+    }]
+  }, {
+    name: 'visitInteractions',
+    title: 'Visit Interactions',
+    rows: [{
+      fields: [{
+        name: 'parentGreetedChildAtBeginningOfVisit',
+        label: 'Parent and child greeted each other at the beginning of the visit?',
+        validation: observationValidation
+      }, {
+        name: 'parentShowedSignsOfAffection',
+        label: 'Parent showed signs of affection consistent with family culture?',
+        description: 'i.e. Eye contact, tone of voice, smiles, hugs, holding, listening, positive feedback, etc.',
+        validation: observationValidation
+      }, {
+        name: 'childShowedSignsOfAffection',
+        label: 'Child showed signs of affection consistent with family culture?',
+        description: 'i.e. Eye contact, tone of voice, smiles, hugs, holding, listening, etc.',
+        validation: observationValidation
+      }, {
+        name: 'childSharedExperiences',
+        label: 'Child shared experiences with parent that occured outside the visit?',
+        description: 'i.e. School, daycare, how they are adjusting, etc.',
+        validation: observationValidation
+      }, {
+        name: 'parentSetAppropriateLimits',
+        label: 'Parent set age-appropriate limits with child, managed the child\'s behavior?',
+        validation: observationValidation
+      }, {
+        name: 'parentHelpedChildSayGoodbye',
+        label: 'Parent helped child say good-bye at end of visit?',
+        description: 'i.e. Clean up, said good-bye, walked child to car, etc.',
+        validation: observationValidation
+      }, {
+        name: 'supervisorHadToInterveneToMaintainChildSafety',
+        label: 'Supervisor had to intervene to maintain child safety?',
+        validation: observationValidation
+      }]
+    }]
+  }]
+};
+
+module.exports = ObservationsSchema;

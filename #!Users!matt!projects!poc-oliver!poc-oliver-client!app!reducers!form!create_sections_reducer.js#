@@ -1,0 +1,60 @@
+const R = require('ramda');
+const u = require('updeep');
+const reduceReducers = require('reduce-reducers');
+
+const compact = require('app/utils/compact');
+const createDefaultSectionReducer = require('app/reducers/form/create_section_reducer');
+const createAddableSectionReducer = require('app/reducers/form/create_addable_section_reducer');
+const createRadioSelectReducer = require('app/reducers/form/create_radio_select_section_reducer');
+
+const REDUCER_CREATORS = {
+  addableSection: createAddableSectionReducer,
+  header: null,
+  radioSelect: createRadioSelectReducer
+};
+
+const initialState = {
+  errorCount: 0,
+  formUpdates: {}
+};
+
+function createSectionReducer(reducer, sectionName) {
+  return (state = initialState, action) => {
+    const sectionState = reducer(state[sectionName], action);
+
+    const errorCount = state.errorCount + sectionState.errorCount;
+
+    return u({
+      errorCount,
+      formUpdates: sectionState.formUpdates || {},
+      [sectionName]: () => u.omit('formUpdates', sectionState)
+    }, state);
+  };
+}
+
+function schemaSections(schema) {
+  const pageSections = R.pluck('sections', R.values(schema.pages));
+  return R.flatten(R.concat(pageSections, schema.sections || []));
+}
+
+module.exports = function createSectionsReducer(
+  schema,
+  reducerCreators = REDUCER_CREATORS,
+  defaultSectionReducerCreator = createDefaultSectionReducer
+) {
+  const sections = schemaSections(schema);
+  const reducers = compact(R.map((section) => {
+    let reducerCreator = reducerCreators[section.type];
+
+    if (reducerCreator === null) {
+      return;
+    }
+
+    reducerCreator = reducerCreator || defaultSectionReducerCreator;
+
+    const reducer = reducerCreator(section);
+    return createSectionReducer(reducer, section.name);
+  }, sections));
+
+  return reduceReducers(...reducers);
+};

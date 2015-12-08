@@ -1,0 +1,76 @@
+Substantial teamcity-agent
+==========================
+
+Usage
+-----
+
+* `cp .ruby-version.example .ruby-version`
+* `cd .`
+* `bundle install`
+* Get the `data_bag_key` from Shared-Teamcity on lastpass and put it in the
+  project root.
+* `knife sous list` to see nodes
+* `knife sous --help` to see options
+
+Node Manifest
+------
+
+`nodes/nodes.rb` holds node info. Checkout
+[knife_sous](https://github.com/substantial/knife_sous) for more info.
+
+Encrypted Data Bags
+---------
+You can find the data_bag_key in LastPass under Shared-Teamcity
+For editing or creating encrypted data bags use `bin/edit_data_bag`
+
+Usage: `./bin/edit_data_bag <data bag> <item name>`
+
+e.g.  `./bin/edit_data_bag users deploy` - Will decrypt and open
+databags for editing.
+
+**Note:** If editing or adding a private ssh key, [be sure to replace newlines
+with '\n'](http://tickets.opscode.com/browse/CHEF-3540)
+
+Adding Users
+------------
+
+* Get the data_bag_key and place in project root e.g.
+  `chef-teamcity-agent/data_bag_key`
+* Add your public to key to the deploy user's authorized keys under data_bags/users/deploy.json.
+* Find someone whom already has permission to perform chef run.
+* Thats it. You should now be able to ssh into the agent as the `deploy` user
+
+Setting Up a New Agent
+-----------
+
+* Add the build agent to `nodes/nodes.rb`. You'll probably need to override the
+  user to `root` until the `deploy` user is created.
+
+``` ruby
+  ns.node :buildAgentX, default_options.merge!(ip: "ip address", ssh_user: 'root')
+```
+
+* `$ librarian-chef install`
+* `$ knife sous bootstrap buildAgents buildAgentX`
+* Remove the `ssh_user` override.
+* Login to the agent and `sudo chown -R deploy:deploy /tmp/chef-solo`
+* Do a `$ knife sous cook buildAgents buildAgentX`
+* If all is well, commit your changes, the agent should be up and running.
+
+Development
+-----------
+
+**When contributing, be sure to submit a pull request and get it reviewed
+please**
+
+Use [Vagrant](http://www.vagrantup.com/) for developing and testing recipes.
+
+Testing cookbooks:
+* `knife sous prepare vagrant` - Prepares vm
+* `knife sous cook vagrant` - Provision vm, running chef.
+
+Note: You may run `knife sous bootstrap vagrant` which prepares and provisions.
+
+You can ssh into the vagrant box by running either of the following:
+* `ssh vagrant@localhost -p 2222` w/ password: `vagrant`
+* `vagrant ssh`
