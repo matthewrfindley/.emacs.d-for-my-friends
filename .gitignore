@@ -7,4 +7,5 @@
 /ac-comphist.dat
 /packages/*-readme.txt
 /.backups/
+\#\!*
 /auto-save-list/*
