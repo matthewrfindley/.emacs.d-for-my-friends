@@ -1,0 +1,32 @@
+
+;; ----- smex-history -----
+(
+ eval-buffer
+ package-list-packages
+ customize
+ javascript-mode
+ sort-lines
+ comment-region
+ uncomment-region
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 1)
+ (multi-term-dedicated-open . 1)
+ (toggle-window-split . 1)
+ (kill-buffer-and-window . 1)
+ (sort-lines . 4)
+ (javascript-mode . 3)
+ (uncomment-region . 2)
+ (comment-region . 6)
+ (wgrep-change-to-wgrep-mode . 1)
+ (magit-blame . 7)
+ (goto-line . 1)
+ (make-directory . 1)
+ (multi-term . 3)
+ (smartparens-mode . 2)
+ (customize . 1)
+ (package-list-packages . 1)
+ (eval-buffer . 2)
+)

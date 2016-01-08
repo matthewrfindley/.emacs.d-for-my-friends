@@ -1,0 +1,256 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/matt/projects/poc-oliver/client/app/components/" . "form_review_sections/")
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/" . "DropInSession/")
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/" . "components/")
+ ("/Users/matt/projects/poc-oliver/client/test/" . "rhyya/")
+ ("/Users/matt/projects/poc-oliver/client/app/" . "components/")
+ ("/Users/matt/projects/poc-oliver/client/" . "test/")
+ ("/Users/matt/projects/poc-oliver/" . "client/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/"
+ "/Users/matt/projects/poc-oliver/client/test/components/DocumentForm/"
+ "/Users/matt/projects/poc-oliver/client/app/components/DocumentForm/"
+ "/Users/matt/projects/poc-oliver/api/api/middleware/"
+ "/Users/matt/projects/poc-oliver/api/api/presenters/"
+ "/Users/matt/projects/poc-oliver/client/test/components/form_review_section/"
+ "/Users/matt/projects/poc-oliver/client/app/components/form_review_section/"
+ "/Users/matt/projects/poc-oliver/client/app/components/form_review_sections/"
+ "/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionSummary/"
+ "/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/"
+ "/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/"
+ "/Users/matt/projects/poc-oliver/client/app/utils/"
+ "/Users/matt/projects/poc-oliver/api/api/concepts/dropInSessions/"
+ "/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/"
+ "/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/"
+ "/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/"
+ "/Users/matt/projects/poc-oliver/api/test/unit/presenters/"
+ "/Users/matt/projects/poc-oliver/client/app/stylesheets/"
+ "/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/"
+ "/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "pageBuilder.js"
+ "DocumentFormSpec.jsx"
+ "DocumentForm.jsx"
+ "normalizeDropInSessionParams.js"
+ "presentDropInSessionAssignments.js"
+ "presentUserAssignments.js"
+ "sectionRequiredFilterSpec.js"
+ "sectionRequiredFilter.js"
+ "flattenFormReviewSectionPageSpec.js"
+ "flattenFormReviewSectionPage.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/matt/.emacs.d/my/" (22160 9842 0 0) "my-theme.el" "my-settings.el" "my-project-defenitions.el" "my-package.el" "my-keybindings.el" "my-isearch.el" "my-initializers.el" "my-hooks.el" "my-functions.el" "my-customizations.el" "my-bookmarks.el" "my-backup.el" "my-autoloads.el" "my-advice.el" "my-add-to-lists.el" "../" "./")
+
+ ("/Users/matt/.emacs.d/" (22160 9728 0 0) "smex-items" "recentf" "README.org" "places" "packages/" "my/" "init.el" "ido.last" "emms/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".backups/" "#!usr!local!Cellar!emacs-mac!emacs-24.5-z-mac-5.10!share!emacs!24.5!etc!NEWS#" "#!usr!local!Cellar!emacs!24.5!share!emacs!24.5!etc!HELLO#" "#!Users!matt!projects!poc-oliver!poc-oliver-common!src!schemas!visit_report!observations.js#" "#!Users!matt!projects!poc-oliver!poc-oliver-client!app!reducers!form!create_sections_reducer.js#" "#!Users!matt!projects!poc-oliver!common!src!rhyya!schemas!DropInSession.js#" "#!Users!matt!projects!poc-oliver!common!src!models!referralState.js#" "#!Users!matt!projects!poc-oliver!client!app!rhyya!reducers!dropInSessionReducer.js#" "#!Users!matt!projects!poc-oliver!client!app!reducers!service_referral_reducer.js#" "#!Users!matt!projects!poc-oliver!client!app!copy.js#" "#!Users!matt!projects!poc-oliver!client!app!components!visit_report_form!visit_details!form.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!visit_report_form!attended!index.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!SinglePageForm!index.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!service_referral_nav!index.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!service_referral_form!review!sections.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!Select!Select.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!MultiPageForm!MultiPageForm.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!ListControls!ListControls.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!form_page!index.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!form!FormSections.jsx#" "#!Users!matt!projects!poc-oliver!client!app!components!data_select!container.js#" "#!Users!matt!projects!poc-oliver!client!app!components!CheckboxGroup!styles.scss#" "#!Users!matt!projects!poc-oliver!client!app!components!breadcrumb!page_state.js#" "#!Users!matt!projects!poc-oliver!api!test!features!spec_helper.rb#" "#!Users!matt!projects!poc-oliver!api!bin!seed#" "#!Users!matt!projects!poc-oliver!api!api!models!whitelistFromSchema.js#" "#!Users!matt!projects!chef-teamcity-agent!README.md#" "#!Users!matt!projects!chef-teamcity-agent!bin!edit_data_bag#" "#!Users!matt!.emacs.d!README.org#" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/" (22160 9667 0 0) "MultiPageFormFooter.jsx" "MultiPageForm.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/" (22160 5082 0 0) "style.scss" "page_state.js" "item.jsx" "index.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/comments/" (22159 639 0 0) "form_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/observations/" (22160 2074 0 0) "question_spec.jsx" "question_section_spec.jsx" "list_item_spec.jsx" "footer_spec.jsx" "comment_modal_body_spec.jsx" "answer_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/" (22119 29595 0 0) "review/" "observations/" "index_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/" (22119 29594 0 0) "visit_details/" "styles.scss" "review_footer/" "no_show/" "layout.jsx" "createContainer.js" "comments/" "attended/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/visit_details/" (22160 1546 0 0) "form.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/comments/" (22160 1487 0 0) "styles.scss" "form.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/observations/" (22160 1460 0 0) "styles.scss" "question_section.jsx" "question.jsx" "modal_styles.scss" "list_item.jsx" "form.jsx" "footer.jsx" "comment_modal_body.jsx" "answer.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/DocumentForm/" (22159 60164 0 0) "DocumentForm.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/" (22159 63581 0 0) "schedule.js" "index.js" "details.js" "considerations.js" "child_details.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/" (22159 60119 0 0) "visit_report_list/" "visit_report_form/" "visit_report/" "utils/" "user/" "unauthenticated/" "timestamp/" "TimePicker/" "throttle_action.jsx" "textarea/" "terms_of_service/" "table/" "styleguide/" "SinglePageForm/" "ServiceReferralList/" "service_referral_nav/" "service_referral_form/" "service_referral/" "Select/" "referral_assignment/" "redirectors/" "radio/" "public/" "privacy_policy/" "page_header/" "page_controls/" "organization_list/" "organization_form/" "organization/" "not_found.jsx" "NativeDatePicker/" "MultiPageForm/" "modal_form_nav/" "modal/" "message_bar/" "loading_indicator/" "input/" "InlineSelect/" "image/" "if_user_has_permission/" "if/" "form_section_header/" "form_row/" "form_review_sections/" "form_review_section/" "form_page_header/" "form_header/" "form_edit_section_link/" "form/" "footer/" "flash/" "filterable_table/" "DocumentForm/" "disableable_link/" "DatePicker/" "DataSource/" "CheckboxGroup/" "checkbox/" "button_dropdown/" "Button/" "breadcrumb/" "auto_update_checkbox/" "authenticated/" "async_button/" "app.jsx" "App/" "addable_fieldset/" "account_pending/" "about/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/" (22159 63893 0 0) "schedule.jsx" "review/" "layout.jsx" "index.jsx" "details.jsx" "container.jsx" "considerations.jsx" "child_details.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/" (22159 63765 0 0) "observations.js" "index.js" "details.js" "comments.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/" (22159 63678 0 0) "observations.js" "index.js" "details.js" "comments.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/DocumentForm/" (22159 60221 0 0) "DocumentFormSpec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/" (22159 639 0 0) "visit_report_list/" "visit_report_form/" "visit_report/" "utils/" "user/" "timestamp/" "TimePicker/" "throttle_action_spec.jsx" "textarea/" "terms_of_service/" "table/" "styleguide_spec.jsx" "SinglePageForm/" "ServiceReferralList/" "service_referral_nav/" "service_referral_form/" "service_referral/" "Select/" "referral_assignment/" "redirectors/" "radio/" "privacy_policy/" "page_header/" "organization_list/" "organization_form/" "organization/" "NativeDatePicker/" "multi_page_form/" "modal_form_nav/" "modal/" "message_bar/" "loading_indicator_spec.jsx" "input/" "InlineSelect/" "if_user_has_permission/" "if/" "form_row/" "form_review_sections/" "form_review_section/" "form_header/" "form_edit_section_link/" "form/" "footer/" "flash/" "filterable_table/" "disableable_link/" "DatePicker/" "DataSource/" "CheckboxGroup/" "checkbox/" "button_dropdown/" "Button/" "breadcrumb/" "auto_update_checkbox/" "authenticated/" "async_button/" "app_spec.jsx" "addable_fieldset/" "account_pending/" "about/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/visit_details/" (22159 639 0 0) "form_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/no_show/observations/" (22159 60041 0 0) "form.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/" (22159 58541 0 0) "scripts/" "README.md" "Procfile.dev" "Procfile" "package.json" "ONBOARDING.md" "maintenance/" "logs/" "Gemfile.lock" "Gemfile" "Dockerfile" "common/" "client/" "bin/" "api/" ".ruby-version" ".ruby-gemset" ".rspec" ".nvmrc" ".npmrc" ".gitignore" ".git/" ".flowdock_build_notifier.yml" ".eslintrc.test" ".eslintrc" ".eslintignore" ".envrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/models/db/" (22159 661 0 0) "VisitReport.js" "UserAssignment.js" "user.js" "ServiceType.js" "ServiceReferral.js" "RhyyaServiceType.js" "organization.js" "DropInSession.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/" (22159 661 0 0) "presentUserInfo.js" "presentUserAssignments.js" "presentReportReferral.js" "presentReportAssignments.js" "presentReport.js" "presentReferralStateOptions.js" "presentReferralAssignments.js" "presentReferral.js" "presentPublicOrganization.js" "presentOrganization.js" "presentHistoryExport.js" "presentHasOneAssignments.js" "presentExportFilename.js" "presentDropInSessionAssignments.js" "presentDropInSession.js" "presentDates.js" "presentAssignments.js" "createDateAndTimePresenter.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/routes/" (22146 46982 0 0) "visitReports/" "util/" "users/" "sessions.js" "serviceReferrals/" "register.js" "public/" "passwords.js" "passwordResets.js" "organizations/" "dropInSessions/" "dataSelect.js" "dataExports.js" "authenticated.js" "appBundle.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/" (22159 1665 0 0) "util/" "20160107163003-delete-observation-columns.js" "20160106143735-add-observations-column-to-visit-report.js" "20151216154859-add-drop-in-sessions.js" "20151204113750-add-organization-service-types.js" "20151202133955-add-date-and-time-columns.js" "20151120121231-change-referral-state-to-accepted.js" "20151120114548-add-referral-state-column.js" "20151118151530-intake-completed.js" "20151106104944-remove-default-value-from-visit-report-state.js" "20151105104937-populate-referral-counter-caches.js" "20151104174115-default-report-state-to-in-progress.js" "20151103144537-add-report-counter-caches-to-service-referrals.js" "20151029101006-add-deleted-at-to-reports-and-referrals.js" "20151026164700-set-visit-report-type.js" "20151022095449-add-no-show-fields-to-visit-report.js" "20151019134432-make-id-surrogate-id-and-add-version-id-on-reports.js" "20151015151203-add-indexes-to-improve-service-referral-list-sort.js" "20151014142545-change-visit-report-foreign-key-to-service-referral.js" "20151013135913-make-id-surrogate-id-and-add-version-id-on-referral.js" "20151009135421-remove-document-from-referrals-and-reports.js" "20151007095453-change-finalized-by-to-approved-by.js" "20151006110054-set-and-default-addables-to-empty-array.js" "20150925132339-rename-parent-helped-child-say-goodbye.js" "20150924114930-add-submitted-at-to-visit-report.js" "20150922151249-fix-considered-alternatives.js" "20150921094813-default-org-can-manage-own-referral-to-true.js" "20150916162415-add-flag-for-referral-creation-on-organization.js" "20150910165335-remove-single-location-columns.js" "20150910143824-add-addable-referral-locations.js" "20150910120340-add-region-admin-column-to-user.js" "20150910093239-add-region-to-organization.js" "20150903165922-add-fields-outside-of-schema-to-visit-report.js" "20150827093725-increase-notes-storage.js" "20150825140639-create-associated-users.js" "20150824115050-splat-visit-report-document-to-columns.js" "20150824094545-splat-service-referral-document-to-columns.js" "20150811110829-remove-truevault.js" "20150727090827-add-name-and-email-constraint-to-organizations.js" "20150709114217-move-referral-notes-to-separate-field.js" "20150707145241-add-updated-by-to-service-referrals.js" "20150707121806-add-metadata-to-visit-reports.js" "20150707090459-add-state-to-visit-reports.js" "20150701103827-create-visit-report.js" "20150626105101-create-service-referral.js" "20150601161518-add-organization-admin-to-users.js" "20150519112950-drop-hipaa-store-id-from-hipaa-schemas.js" "20150518155336-schemas-for-every-vault.js" "20150518095501-add-organization-id-to-users.js" "20150507154618-create-organization.js" "20150406113945-add-hipaa-access-token-and-id-to-users.js" "20150225132759-add-name-index-to-hipaa-schemas.js" "20150225132505-add-email-index-to-users.js" "20150224151122-create-hipaa-schema.js" "20150220174312-add-activation-date-to-user.js" "20150219150558-remove-approved-flag-from-user.js" "20150218150304-add-user-state-to-user.js" "20150218094701-add-admin-to-users.js" "20150213104558-add-column-constraints.js" "20150212180128-add-reset-password-fields-to-users.js" "20150210183650-add-approved-flag-to-users.js" "20150208101024-create-users.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/" (22158 59968 0 0) "webpack.config.test.js" "webpack.config.production.js" "webpack.config.js" "webpack.config.hot-dev-server.js" "test/" "package.json" "node_modules/" "karma.conf.js" "gulpfile.js" "gulp/" "dist/" "bin/" "app/" ".gitignore" ".eslintrc" ".eslintignore" ".envrc" ".babelrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/" (22155 62258 0 0) "utils/" "tracker.js" "stylesheets/" "routes.jsx" "rhyya/" "redux/" "reducers/" "presenters/" "main.jsx" "images/" "history.js" "fonts/" "decorators/" "createConfirmRefresh.js" "create_router.jsx" "copy.js" "constants.js" "confirm.js" "components/" "base/" "api/" "analytics.js" "alert.js" "actions/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/" (22158 59968 0 0) "visit_report_reducer.js" "visit_report_collection_reducer.js" "utils/" "user_reducer.js" "service_referrals_reducer.js" "service_referral_reducer.js" "region_reducer.js" "organizations_reducer.js" "organization_reducer.js" "middleware/" "messages_reducer.js" "index.js" "form/" "data_select_reducer.js" "current_organization_reducer.js" "app_bundle_reducer.js" "api_reducer.js" "accounts_reducer.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/middleware/" (22158 60839 0 0) "freeze.js" "dirty_tracker.js" "add_errors.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/radio_select_section/" (22119 29594 0 0) "option.jsx" "index.jsx" "container.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_page/" (22157 25464 0 0) "index.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/models/" (22156 27005 0 0) "whitelistFromSchema.js" "validateUser.js" "validatePassword.js" "updateUserAssignments.js" "updateUserAssignment.js" "updateReferralNotes.js" "updateReferralCounterCaches.js" "registerUser.js" "passwordReset.js" "organizationsList.js" "nullUser.js" "moveReferral.js" "logoutUser.js" "loginUser.js" "listServiceReferralsForOrg.js" "index.js" "generateToken.js" "generatePasswordReset.js" "generateHashedPassword.js" "enableUser.js" "disableUser.js" "deleteVersionedRecord.js" "db/" "dataExports/" "createVersionedReportFromPreviousReport.js" "createVersionedRecord.js" "createServiceReferral.js" "buildPasswordResetAttributes.js" "AppBundle.js" "activateUser.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/" (22157 25464 0 0) "test/" "README.md" "public/" "poc-oliver-common.js" "package.json" "node_modules/" "newrelic.js" "gulpfile.js" "gulp/" "config/" "capybara-201512291434358566969705.html" "capybara-201512291434343952164706.png" "capybara-201512291426474819131294.html" "capybara-201512291426467027798437.png" "capybara-201512291424419005651044.png" "capybara-201512291424417578521142.html" "capybara-201512291422293494781585.png" "capybara-201512291422292399665317.html" "capybara-201512291421362632984263.html" "capybara-20151229142135381011005.png" "capybara-201512291409527048607975.html" "capybara-201512291409518121391913.png" "capybara-201512291355424569879884.png" "capybara-201512291355424537398825.html" "capybara-201512291353509132553576.html" "capybara-201512291353501691653132.png" "capybara-201512291347434873469872.html" "capybara-20151229134743433451222.png" "capybara-201512291339306193707986.html" "capybara-201512291339302750052733.png" "capybara-201512291336183880168792.png" "capybara-201512291336183533105134.html" "capybara-201512291331588855741532.png" "capybara-201512291331582046191141.html" "capybara-201512291329084954666434.png" "bin/" "api/" ".sequelizerc" ".rspec" ".gitignore" ".eslintrc" ".eslintignore" ".envrc" ".babelrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/" (22119 29594 0 0) "unit/" "support/" "features/" "acceptance/" ".eslintrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/" (22155 62258 0 0) "util/" "sessionSerializationSpec.js" "routes/" "rootRedirectSpec.js" "queries/" "presenters/" "models/" "mockResponse.js" "mockExpress.js" "middleware/" "mailers/" "localStrategyVerificationSpec.js" "db/" "concepts/" "common.js" "authorization/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/models/" (22156 26998 0 0) "whitelistFromSchemaSpec.js" "validateUserSpec.js" "validatePasswordSpec.js" "updateUserAssignmentsSpec.js" "updateUserAssignmentSpec.js" "updateReferralNotesSpec.js" "updateReferralCounterCachesSpec.js" "registerSpec.js" "passwordResetSpec.js" "organizationsListSpec.js" "moveReferralSpec.js" "logoutUserSpec.js" "loginUserSpec.js" "listServiceReferralsForOrgSpec.js" "generateTokenSpec.js" "generatePasswordResetSpec.js" "generateHashedPasswordSpec.js" "enableUserSpec.js" "disableUserSpec.js" "deleteVersionedRecordSpec.js" "db/" "dataExports/" "createVersionedReportFromPreviousReportSpec.js" "createVersionedRecordSpec.js" "createServiceReferralSpec.js" "buildPasswordResetAttributesSpec.js" "AppBundleSpec.js" "activateUserSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/" (22154 52845 0 0) "test/" "src/" "package.json" "node_modules/" "gulpfile.js" "gulp/" "dist/" "bin/" ".gitignore" ".eslintrc" ".eslintignore" ".envrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/test/" (22129 59835 0 0) "validation_schema_spec.js" "validate_sync_spec.js" "validate_spec.js" "utils/" "schemas/" "perform_on_fields_spec.js" "object_values_spec.js" "mocha.opts" "map_data_to_select_options_spec.js" "flatten_fields_spec.js" "custom_validator_spec.js" "common.js" ".eslintrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/test/utils/" (22156 25902 0 0) "format_time_spec.js" "build_validation_from_schema_spec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/reducers/" (22156 23031 0 0) "visit_report_reducer_spec.js" "visit_report_collection_reducer_spec.js" "utils/" "user_reducer_spec.js" "service_referrals_reducer_spec.js" "service_referral_reducer_spec.js" "region_reducer_spec.js" "organizations_reducer_spec.js" "organization_reducer_spec.js" "middleware/" "message_reducer_spec.js" "freeze_spec.js" "form/" "data_select_reducer_spec.js" "current_organization_reducer_spec.js" "app_bundle_reducer_spec.js" "api_reducer_spec.js" "accounts_reducer_spec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/" (22156 19461 0 0) "user_sign_in/" "user_registration/" "states.js" "organization/" "build_sections_schema.js" "build_section_schema.js" "build_pages_schema.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/organization/" (22146 46982 0 0) "index.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/utils/" (22156 15827 0 0) "mockMoment.js" "formatTime.js" "formatDate.js" "build_validation_from_schema.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/reducers/" (22156 13604 0 0) "index.js" "dropInSessionsReducer.js" "dropInSessionReducer.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/schemas/" (22155 62258 0 0) "DropInSession.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/" (22154 52845 0 0) "visitation/" "validation_schema.js" "validate_sync.js" "validate.js" "utils/" "typed_error.js" "stylesheets/" "rhyya/" "presenters/" "perform_on_fields.js" "object_values.js" "models/" "map_data_to_select_options.js" "main.js" "locale.js" "flatten_fields.js" "custom_validators.js" "copy.js" "base/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/form/" (22156 2260 0 0) "create_visited_fields_reducer.js" "create_radio_select_reducer.js" "create_form_update_reducer.js" "create_form_reducer.js" "create_form_collection_reducer.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/" (22155 62258 0 0) "NewDropInSessionFormLayout.jsx" "EditDropInSessionFormLayout.jsx" "EditDropInSessionForm.jsx" "DropInSessionSummaryLayout.jsx" "DropInSessionSummary.jsx" "DropInSessionForm.jsx" "createContainer.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/" (22155 62532 0 0) "NewDropInSessionFormLayoutSpec.jsx" "EditDropInSessionFormSpec.jsx" "EditDropInSessionFormLayoutSpec.jsx" "DropInSessionSummarySpec.jsx" "DropInSessionSummaryLayoutSpec.jsx" "DropInSessionFormSpec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/bin/" (22154 52845 0 0) "www" "users-report.sql" "updateVisitReportDateFields.js" "updateServiceReferralDates.js" "updateServiceReferralAddableSectionDateFields.js" "update-app-version" "statistics-report.sql" "setup-test" "seed-data.js" "seed" "release-notes" "refresh-env" "post-install" "populate-normalized-date-and-time-columns" "migrate-resource-specialists" "mail" "dev" "deploy-usertest" "deploy-staging" "deploy-production" "deploy-integration" "db" "create-readonly-user" "create-initial-service-types" "create-initial-rhyya-serivce-types" "create-db" "convert-super-admin-to-region-admin" "compile-assets" "clear-env" "ci-features" "ci" "batchRunner.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/routes/util/" (22154 52845 0 0) "loadParentResource.js" "awaitResponse.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/" (22148 29316 0 0) "viewOrganizationDropInSessionsHandler.js" "updateDropInSessionHandler.js" "member.js" "findDropInSessionHandler.js" "createDropInSessionHandler.js" "collection.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/serviceReferrals/" (22121 47515 0 0) "memberSpec.js" "createReferralHandlerSpec.js" "copyReferralHandlerSpec.js" "collectionSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/" (22148 29638 0 0) "viewOrganizationDropInSessionsHandlerSpec.js" "updateDropInSessionHandlerSpec.js" "memberSpec.js" "findDropInSessionHandlerSpec.js" "createDropInSessionHandlerSpec.js" "collectionSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/" (22148 29295 0 0) "validateClientVersion.js" "util/" "stripRegionIdUnlessSuperAdmin.js" "signOutNonApprovedUser.js" "sanitizeVisitReport.js" "sanitizeBody.js" "removeBody.js" "redirectToMaintenance.js" "normalizeVisitReportParams.js" "normalizeReferralParams.js" "normalizeDropInSessionParams.js" "normalizeDateAndTimes.js" "errorHandler.js" "checkMethodOverride.js" "authenticate.js" "apiLogger.js" "addCsrfTokenCookie.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/presenters/" (22148 27166 0 0) "presentUserInfoSpec.js" "presentReportSpec.js" "presentReportReferralSpec.js" "presentReferralStateOptionsSpec.js" "presentReferralSpec.js" "presentReferralAssignmentsSpec.js" "presentPublicOrganizationSpec.js" "presentOrganizationSpec.js" "presentHistoryExportSpec.js" "presentHasOneAssignmentsSpec.js" "presentExportFilenameSpec.js" "presentDropInSessionSpec.js" "presentDatesSpec.js" "presentAssignmentsSpec.js" "createDateAndTimePresenterSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/" (22148 20256 0 0) "updateDropInSessionSpec.js" "findDropInSessionSpec.js" "createDropInSessionSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/dropInSessions/" (22148 20245 0 0) "updateDropInSession.js" "index.js" "findDropInSession.js" "createDropInSession.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_sections/" (22148 20170 0 0) "index.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_section/" (22148 20170 0 0) "template.js" "sectionRequiredFilter.js" "review_field.jsx" "missing_placeholder.jsx" "index.jsx" "fieldset.jsx" "default.jsx" "convert_to_review_template_format.js" "comments.jsx" "builder.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_section/" (22148 23916 0 0) "sectionRequiredFilterSpec.js" "index_spec.jsx" "fieldset_spec.jsx" "convert_to_review_template_format_spec.js" "comments_spec.jsx" "builder_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/routes/serviceReferrals/" (22148 25036 0 0) "member.js" "createReferralHandler.js" "copyReferralHandler.js" "collection.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/presenters/" (22119 29595 0 0) "phone.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/" (22148 17151 0 0) "section/" "row.jsx" "radio_select_section/" "page.jsx" "HiddenSubmitButton.jsx" "header_section.jsx" "field/" "addable_section.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/util/" (22148 12687 0 0) "string/" "setUndefinedAndNullToEmptyString.js" "redactBody.js" "pathedProp.js" "joinCompactProps.js" "index.js" "getPlainValues.js" "ensurePromises.js" "ensureArray.js" "compact.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/" (22146 46982 0 0) "utils/" "tracker_spec.js" "support/" "rhyya/" "redux/" "reducers/" "presenters/" "index.js" "decorators/" "confirmRefreshSpec.js" "confirm_spec.js" "components/" "base/" "api/" "analytics_spec.js" "actions/" ".eslintrc" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/" (22137 24326 0 0) "serviceTypesForDataSelect.js" "rhyyaServiceTypesForDataSelect.js" "index.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/" (22137 24326 0 0) "serviceTypesForDataSelectSpec.js" "rhyyaServiceTypesForDataSelectSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/" (22146 46982 0 0) "print.scss" "main.scss" "_variables.scss" "_typography.scss" "_tables.scss" "_skeleton.scss" "_retina.scss" "_react_widget_overrides.scss" "_printable_forms.scss" "_normalize.scss" "_modals.scss" "_mixins.scss" "_lists.scss" "_links.scss" "_labels.scss" "_icons.scss" "_grid.scss" "_generic.scss" "_functions.scss" "_forms.scss" "_colors.scss" "_buttons.scss" "_breakpoints.scss" "_base.scss" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/utils/" (22147 9790 0 0) "uniqueId.js" "triggerChangeEvent.js" "section_has_error.js" "page_has_errors.js" "omitChildren.js" "map_obj_deep.js" "is_empty_object.js" "focus_ref.js" "ensure_array.js" "compact.js" "capitalize_first.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionSummary/" (22137 56378 0 0) "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/actions/" (22146 46982 0 0) "visit_report.js" "utils/" "user.js" "service_referral.js" "organization.js" "message.js" "global.js" "data_select.js" "current_organization.js" "create_form_actions.js" "app_bundle.js" "account.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/actions/" (22147 4565 0 0) "dropInSession.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/features/support/page_models/" (22146 46982 0 0) "review_form.rb" "reports.rb" "referral_list.rb" "referral_form.rb" "referral.rb" "no_show_visit_report_form.rb" "multi_page_form.rb" "form_approval.rb" "base.rb" "attended_visit_report_form.rb" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_sections/" (22146 56092 0 0) "index_spec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_nav/" (22146 46982 0 0) "index.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/page_header/" (22129 59835 0 0) "styles.scss" "index.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSessionList/" (22146 53320 0 0) "presentDropInSessionListItem.js" "DropInSessionListPageControls.jsx" "DropInSessionListItemSummary.jsx" "DropInSessionListItemDetails.jsx" "DropInSessionListItemActions.jsx" "DropInSessionListItem.jsx" "DropInSessionList.jsx" "container.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/" (22119 29594 0 0) "remove_unvisited_errors.js" "present_errors.js" "form_presenter.js" "form_page_presenter.js" "field_display_value_presenter.js" "convert_error_array_to_error_object.js" "add_visited_pages_to_visited_fields.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/" (22137 24326 0 0) "service_referral/" "no_show_visit_report/" "dcfs_units.js" "dcfs_offices.js" "counties.js" "attended_visit_report/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review/" (22146 46982 0 0) "visit_schedule.jsx" "sections.jsx" "referral_notes.jsx" "referral_note_modal.jsx" "language_requirement.jsx" "index.jsx" "comment.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/util/" (22119 29594 0 0) "normalizeUserAssignmentParams.js" "normalizeHasOneUserAssignmentParams.js" "normalizeEmptyStrings.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/schemas/DropInSession/" (22138 53107 0 0) "index.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral/" (22137 57616 0 0) "styles.scss" "page_header_actions.jsx" "index.jsx" "container.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/" (22137 56378 0 0) "DropInSessionSummary/" "DropInSessionList/" "DropInSession/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/" (22137 24326 0 0) "reducers/" "components/" "api/" "actions/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/modal_form_nav/" (22137 24326 0 0) "save_button.jsx" "reject_button.jsx" "index.jsx" "done_button.jsx" "close_button.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/" (22137 24326 0 0) "reducers/" "copy.js" "components/" "api/" "actions/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/redux/api/interceptors/" (22119 29594 0 0) "sendCsrfToken.js" "registerInterceptors.js" "httpMethodOverride.js" "appendClientVersionToRequest.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/authorization/" (22137 37050 0 0) "roleBasedPermission.js" "index.js" "activities.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/organizations/" (22129 59835 0 0) "updateOrganization.js" "index.js" "createOrganization.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceReferrals/" (22120 43941 0 0) "getReferralHistorySpec.js" "copyReferralSpec.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/visitReports/" (22119 29594 0 0) "submitReportForReview.js" "rejectReport.js" "index.js" "getVisitReportsForReferral.js" "getVisitReportHistory.js" "getVisitReportForDataExport.js" "deleteVisitReport.js" "createVisitReport.js" "approveReport.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/routes/organizations/" (22129 59835 0 0) "updateOrganizationHandler.js" "member.js" "createOrganizationHandler.js" "collection.js" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/api/api/" (22136 16153 0 0) "views/" "util/" "sessionSerialization.js" "routes/" "rootRedirect.js" "reportTemplates/" "queries/" "presenters/" "models/" "migrations/" "middleware/" "main.js" "mailers/" "logger.js" "localStrategyVerification.js" "forceSSL.js" "errors/" "db/" "copy.js" "config.js" "concepts/" "basicAuth.js" "authorization/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionList/" (22136 36400 0 0) "NewDropInSessionFormLayout.jsx" "DropInSessionListSpec.jsx" "DropInSessionListPageControlsSpec.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/CheckboxGroup/" (22136 34852 0 0) "styles.scss" "CheckboxGroup.jsx" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/" (22136 16150 0 0) "schemas/" "../" "./")
+
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/field/" (22129 59835 0 0) "type.jsx" "label.jsx" "index.jsx" "help_text.jsx" "error.jsx" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

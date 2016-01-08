@@ -1,0 +1,520 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/matt/projects/"
+	(dired-filename . "/Users/matt/projects/poc-oliver"))
+ ("/Users/matt/projects/poc-oliver/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/page_state.js" . 697)
+ ("/Users/"
+	(dired-filename . "/Users/matt"))
+ ("/Users/matt/"
+	(dired-filename . "/Users/matt/.emacs.d"))
+ ("/Users/matt/.emacs.d/"
+	(dired-filename . "/Users/matt/.emacs.d/my"))
+ ("/Users/matt/.emacs.d/my/my-functions.el" . 7413)
+ ("/Users/matt/.emacs.d/my/"
+	(dired-filename . "/Users/matt/.emacs.d/my/my-hooks.el"))
+ ("/Users/matt/.emacs.d/my/my-hooks.el" . 1336)
+ ("/Users/matt/.emacs.d/recentf" . 33912)
+ ("/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/MultiPageForm.jsx" . 457)
+ ("/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/MultiPageForm.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm"))
+ ("/Users/matt/projects/poc-oliver/client/app/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components"))
+ ("/Users/matt/projects/poc-oliver/client/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app"))
+ ("/"
+	(dired-filename . "/Users"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/page_state.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/actions/service_referral.js" . 4203)
+ ("/Users/matt/projects/poc-oliver/api/test/acceptance/exportVisitReportHistorySpec.js" . 2733)
+ ("/Users/matt/projects/poc-oliver/api/api/models/db/VisitReport.js" . 2922)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/visitReports"))
+ ("/Users/matt/projects/poc-oliver/api/api/routes/visitReports/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/visitReports/member.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/routes/visitReports/member.js" . 1904)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentHistoryExport.js" . 2203)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentReport.js" . 892)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/presenters/presentHistoryExport.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20150824115050-splat-visit-report-document-to-columns.js" . 1804)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/middleware/add_errors.js" . 1037)
+ ("/Users/matt/projects/poc-oliver/api/api/models/db/ServiceReferral.js" . 772)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/radio_select_section/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/form/radio_select_section/container.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/validate_sync.js" . 400)
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/present_errors.js" . 411)
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/remove_unvisited_errors.js" . 490)
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/add_visited_pages_to_visited_fields.js" . 1607)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/migrations/20151204113750-add-organization-service-types.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20151009135421-remove-document-from-referrals-and-reports.js" . 652)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20160107163003-delete-observation-columns.js" . 957)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/public/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/public/index.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/routes/authenticated.js" . 2031)
+ ("/Users/matt/projects/poc-oliver/api/api/models/db/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/models/db/ServiceType.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/models/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/models/db"))
+ ("/Users/matt/projects/poc-oliver/api/api/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/views"))
+ ("/Users/matt/projects/poc-oliver/api/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test"))
+ ("/Users/matt/projects/poc-oliver/api/test/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/support"))
+ ("/Users/matt/projects/poc-oliver/api/test/support/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/support/fixtures"))
+ ("/Users/matt/projects/poc-oliver/api/test/support/fixtures/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/support/fixtures/visitReport.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/support/fixtures/visitReport.js" . 161)
+ ("/Users/matt/projects/poc-oliver/client/test/components/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/DocumentForm"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/DocumentForm/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/DocumentForm/DocumentFormSpec.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/base/components/Nav/Nav.jsx" . 914)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/radio_select_section/container.js" . 271)
+ ("/Users/matt/projects/poc-oliver/client/test/components/form/FormSectionsSpec.jsx" . 2156)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/details.js" . 625)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/considerations.js" . 316)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/details.js" . 855)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/schedule.js" . 537)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/observations.js" . 443)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/comments.js" . 87)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation/schemas/attended_visit_report/comments.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/comments.js" . 167)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/observations.js" . 193)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/details.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/no_show_visit_report/details.js" . 834)
+ ("/Users/matt/projects/poc-oliver/client/app/components/SinglePageForm/index.jsx" . 1413)
+ ("/Users/matt/projects/poc-oliver/client/app/components/user/auth_page/index.jsx" . 2402)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/child_details.js" . 6861)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/schedule.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral"))
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation/schemas"))
+ ("/Users/matt/projects/poc-oliver/common/src/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/visitation"))
+ ("/Users/matt/projects/poc-oliver/common/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/index.jsx" . 1278)
+ ("/Users/matt/projects/poc-oliver/client/app/copy.js" . 5111)
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/index.jsx" . 1379)
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/review/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/review/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/container.jsx" . 470)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_sections/index.jsx" . 884)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review/index.jsx" . 1074)
+ ("/Users/matt/projects/poc-oliver/client/app/components/DocumentForm/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/DocumentForm/DocumentForm.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/observations/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/observations/form.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/observations"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/no_show/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/no_show/observations"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/no_show"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/FormSections.jsx" . 1437)
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/observations/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/observations/list_item_spec.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/attended/observations"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/no_show/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/no_show/review"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/visit_report_form/" . 464)
+ ("/Users/matt/projects/poc-oliver/client/test/components/DocumentForm/DocumentFormSpec.jsx" . 2331)
+ ("/Users/matt/projects/poc-oliver/client/app/components/DocumentForm/DocumentForm.jsx" . 1153)
+ ("/Users/matt/.emacs.d/my/my-add-to-lists.el" . 557)
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/schemas/DropInSession.js" . 1126)
+ ("/Users/matt/projects/poc-oliver/api/api/models/whitelistFromSchema.js" . 1059)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/form/header_section.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/index.jsx" . 1277)
+ ("/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/item.jsx" . 647)
+ ("/Users/matt/projects/poc-oliver/client/app/components/breadcrumb/index.jsx" . 767)
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/review/index.jsx" . 1048)
+ ("/Users/matt/projects/poc-oliver/client/app/components/visit_report_form/attended/review/sections.jsx" . 991)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/radio_select_section/index.jsx" . 1036)
+ ("/Users/matt/projects/poc-oliver/client/test/reducers/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/reducers/visit_report_reducer_spec.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/reducers"))
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/reducers/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/reducers/dropInSessionReducer.js"))
+ ("/Users/matt/projects/poc-oliver/client/test/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/rhyya"))
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/rhyya/reducers"))
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/form/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/reducers/form/create_form_collection_reducer.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/utils/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/utils/map_obj_deep.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/middleware/sanitizeBody.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/schemas/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/rhyya/schemas/DropInSession.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/utils/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/utils/build_validation_from_schema.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/presenters/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/presenters/phone.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/organization/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/base/schemas/organization/index.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/base/schemas/build_section_schema.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/base/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/base/schemas"))
+ ("/Users/matt/projects/poc-oliver/client/app/base/components/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/base/components/Nav"))
+ ("/Users/matt/projects/poc-oliver/client/app/base/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/base/components"))
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/reducers/visit_report_reducer.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/utils/addKeysToAddableSections.js" . 839)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/visit_report_reducer.js" . 900)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/service_referral_reducer.js" . 1153)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/reducers/dropInSessionReducer.js" . 872)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/reducers/dropInSessionReducerSpec.js" . 2414)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/models/whitelistFromSchemaSpec.js" . 1690)
+ ("/Users/matt/projects/poc-oliver/client/test/reducers/utils/addKeysToAddableSectionsSpec.js" . 99)
+ ("/Users/matt/projects/poc-oliver/client/test/reducers/service_referral_reducer_spec.js" . 64)
+ ("/Users/matt/projects/poc-oliver/common/test/schemas/build_pages_schema_spec.js" . 178)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/actions/dropInSession.js" . 1031)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/form/create_form_reducer.js" . 812)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/form/create_form_collection_reducer.js" . 372)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/addable_section.jsx" . 3971)
+ ("/Users/matt/projects/poc-oliver/common/src/utils/formatTime.js" . 186)
+ ("/Users/matt/projects/poc-oliver/common/src/perform_on_fields.js" . 268)
+ ("/Users/matt/projects/poc-oliver/client/app/actions/organization.js" . 1580)
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/sanitizeBody.js" . 274)
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/organization/index.js" . 2381)
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/build_sections_schema.js" . 144)
+ ("/Users/matt/projects/poc-oliver/common/src/flatten_fields.js" . 235)
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/build_section_schema.js" . 135)
+ ("/Users/matt/projects/poc-oliver/client/test/reducers/visit_report_reducer_spec.js" . 135)
+ ("/Users/matt/projects/poc-oliver/common/src/visitation/schemas/service_referral/index.js" . 523)
+ ("/Users/matt/projects/poc-oliver/common/test/utils/build_validation_from_schema_spec.js" . 95)
+ ("/Users/matt/projects/poc-oliver/common/src/base/schemas/build_pages_schema.js" . 1207)
+ ("/Users/matt/projects/poc-oliver/common/src/utils/build_validation_from_schema.js" . 1158)
+ ("/Users/matt/projects/poc-oliver/api/bin/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/bin/refresh-env"))
+ ("/Users/matt/projects/poc-oliver/bin/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/bin/www"))
+ ("/Users/matt/projects/poc-oliver/scripts/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/scripts/shared.rb"))
+ ("/Users/matt/projects/poc-oliver/api/api/models/dataExports/billingData/finBillingData.js" . 3386)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/models/dataExports/finBillingDataSpec.js" . 1573)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/NewDropInSessionFormLayoutSpec.jsx" . 457)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/" . 699)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/EditDropInSessionForm.jsx" . 920)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/createContainer.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/actions/dropInSessionSpec.js" . 5295)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/api/dropInSessionApi.js" . 438)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/createContainer.jsx" . 398)
+ ("/Users/matt/projects/poc-oliver/client/app/components/CheckboxGroup/CheckboxGroup.jsx" . 2121)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/collectionSpec.js" . 542)
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/dropInSessions/createDropInSession.js" . 613)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/collection.js" . 157)
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/util/normalizeUserAssignmentParams.js" . 578)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/util/awaitResponse.js" . 11)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/util/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/util/awaitResponse.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/routes"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/routes/serviceReferrals"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/serviceReferrals/collectionSpec.js" . 693)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/serviceReferrals/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/routes/serviceReferrals/collectionSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/normalizeDropInSessionParams.js" . 152)
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/normalizeVisitReportParams.js" . 302)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/presenters/presentReferralAssignmentsSpec.js" . 1036)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/createDateAndTimePresenter.js" . 5)
+ ("/Users/matt/projects/poc-oliver/common/src/rhyya/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/src/rhyya/schemas"))
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/presenters/form_page_presenter.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSessionList/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSessionList/DropInSessionListItemDetails.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/page_header/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/page_header/styles.scss"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_nav/" . 285)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_sections/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/form_review_sections/index_spec.jsx"))
+ ("/Users/matt/projects/poc-oliver/api/test/features/support/page_models/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/features/support/page_models/referral.rb"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_sections/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/form_review_sections/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/api/api/errors/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/errors/ReferralHasAssociatedReportsError.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/actions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/actions/dropInSession.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/utils/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/reducers/utils/addKeysToAddableSections.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/actions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/actions/organization.js"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_section/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/components/form_review_section/sectionRequiredFilterSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/util/ensurePromises.js" . 74)
+ ("/Users/matt/projects/poc-oliver/api/api/util/setUndefinedAndNullToEmptyString.js" . 174)
+ ("/Users/matt/projects/poc-oliver/api/api/util/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/util/compact.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral/container.jsx" . 1232)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/service_referral/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_section/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/form_review_section/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral/index.jsx" . 1792)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/middleware/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/reducers/middleware/add_errors.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/util/normalizeHasOneUserAssignmentParams.js" . 422)
+ ("/Users/matt/projects/poc-oliver/api/api/models/AppBundle.js" . 419)
+ ("/Users/matt/projects/poc-oliver/api/api/models/createVersionedRecord.js" . 785)
+ ("/Users/matt/projects/poc-oliver/api/api/models/dataExports/billingData/finIntakeData.js" . 823)
+ ("/Users/matt/projects/poc-oliver/api/api/models/dataExports/visitReportDataExport.js" . 4573)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentDates.js" . 129)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentOrganization.js" . 435)
+ ("/Users/matt/projects/poc-oliver/api/test/support/factory.js" . 412)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20151006110054-set-and-default-addables-to-empty-array.js" . 520)
+ ("/Users/matt/projects/poc-oliver/client/app/components/addable_fieldset/index.jsx" . 130)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/findDropInSessionSpec.js" . 786)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/findDropInSessionHandler.js" . 162)
+ ("/Users/matt/projects/poc-oliver/api/api/models/db/DropInSession.js" . 1004)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentReferral.js" . 742)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentAssignments.js" . 154)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentReportAssignments.js" . 129)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentUserAssignments.js" . 339)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentDropInSessionAssignments.js" . 217)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentReferralAssignments.js" . 218)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/presenters/presentDropInSessionSpec.js" . 86)
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentDropInSession.js" . 969)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/viewOrganizationDropInSessionsHandler.js" . 294)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/updateDropInSessionHandler.js" . 367)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/serviceReferrals/member.js" . 441)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/serviceReferrals/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/serviceReferrals/member.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/normalizeReferralParams.js" . 628)
+ ("/Users/matt/projects/poc-oliver/api/api/middleware/util/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/middleware/util/normalizeUserAssignmentParams.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/memberSpec.js" . 1132)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/collectionSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/member.js" . 955)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/dropInSessions/member.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/dropInSessions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/dropInSessions/createDropInSession.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/main.js" . 877)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/review/sections.jsx" . 1847)
+ ("/Users/matt/projects/poc-oliver/client/app/presenters/form_page_presenter.js" . 2163)
+ ("/Users/matt/projects/poc-oliver/client/app/decorators/decorate_user_with_permissions.js" . 1341)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/EditDropInSessionFormLayout.jsx" . 599)
+ ("/Users/matt/projects/poc-oliver/client/test/decorators/decorate_user_with_permissions_spec.js" . 2254)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/DropInSessionFormSpec.jsx" . 286)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/DropInSessionForm.jsx" . 772)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/edit.jsx" . 792)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSessionList/DropInSessionListItemActions.jsx" . 565)
+ ("/Users/matt/projects/poc-oliver/client/app/components/page_header/index.jsx" . 499)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionList/DropInSessionListItemActionsSpec.jsx" . 692)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_nav/index.jsx" . 689)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/DropInSessionSummarySpec.jsx" . 211)
+ ("/Users/matt/projects/poc-oliver/api/test/features/support/page_models/multi_page_form.rb" . 1114)
+ ("/Users/matt/projects/poc-oliver/client/app/routes.jsx" . 3301)
+ ("/Users/matt/projects/poc-oliver/api/test/features/referrals/create_referral_spec.rb" . 2169)
+ ("/Users/matt/projects/poc-oliver/api/test/features/support/page_models/referral.rb" . 802)
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_section/index_spec.jsx" . 454)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_section/index.jsx" . 1813)
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_sections/index_spec.jsx" . 2434)
+ ("/Users/matt/projects/poc-oliver/client/app/components/modal_form_nav/close_button.jsx" . 84)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/DropInSessionSummary.jsx" . 1536)
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/components/DropInSession/DropInSessionSummaryLayout.jsx" . 639)
+ ("/Users/matt/projects/poc-oliver/client/app/components/service_referral_form/layout.jsx" . 510)
+ ("/Users/matt/projects/poc-oliver/client/app/actions/utils/go_back_or_go_home.js" . 70)
+ ("/Users/matt/projects/poc-oliver/client/app/utils/page_has_errors.js" . 408)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_section/builder.js" . 239)
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_section/builder_spec.jsx" . 4794)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form_review_section/sectionRequiredFilter.js" . 510)
+ ("/Users/matt/projects/poc-oliver/client/test/components/form_review_section/sectionRequiredFilterSpec.js" . 2031)
+ ("/Users/matt/projects/poc-oliver/client/package.json" . 1331)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/app_bundle_reducer.js" . 536)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/organization_reducer.js" . 1350)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/current_organization_reducer.js" . 825)
+ ("/Users/matt/projects/poc-oliver/common/package.json" . 829)
+ ("/Users/matt/projects/poc-oliver/api/package.json" . 1162)
+ ("/Users/matt/projects/poc-oliver/client/app/components/MultiPageForm/MultiPageFormFooter.jsx" . 121)
+ ("/Users/matt/projects/poc-oliver/api/api/localStrategyVerification.js" . 423)
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/ServiceReferralListItemDetails.jsx" . 370)
+ ("/Users/matt/projects/poc-oliver/api/api/authorization/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/authorization/activities.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceReferrals/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/serviceReferrals/getReferralHistory.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions"))
+ ("/Users/matt/projects/poc-oliver/api/api/routes/organizations/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/routes/organizations/updateOrganizationHandler.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/organizations"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/organizations/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/organizations/updateOrganization.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/redux/api/interceptors/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/redux/api/interceptors/appendClientVersionToRequest.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/redux/api/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/redux/api/interceptors"))
+ ("/Users/matt/projects/poc-oliver/client/app/redux/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/redux/api"))
+ ("/Users/matt/projects/poc-oliver/client/app/api/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/api/service_referral_api.js"))
+ ("/Users/matt/projects/poc-oliver/client/app/rhyya/api/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/rhyya/api/dropInSessionApi.js"))
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/createDropInSessionSpec.js"))
+ ("/Users/matt/projects/poc-oliver/common/src/utils/formatDate.js" . 311)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/EditDropInSessionFormLayoutSpec.jsx" . 1551)
+ ("/Users/matt/projects/poc-oliver/client/app/components/modal_form_nav/index.jsx" . 73)
+ ("/Users/matt/projects/poc-oliver/client/app/components/modal_form_nav/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/modal_form_nav/.."))
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/DropInSessionSummaryLayoutSpec.jsx" . 705)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/api/dropInSessionApiSpec.js" . 852)
+ ("/Users/matt/projects/poc-oliver/api/api/authorization/activities.js" . 9492)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/authorization/activitiesSpec.js" . 11988)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/organizations/member.js" . 819)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/createDropInSessionSpec.js" . 1341)
+ ("/Users/matt/projects/poc-oliver/client/app/redux/api/interceptors/httpMethodOverride.js" . 109)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/service_referrals_reducer.js" . 302)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/index.js" . 294)
+ ("/Users/matt/projects/poc-oliver/api/api/db/update.js" . 411)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/middleware/dirty_tracker.js" . 464)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/db/setAssociationsSpec.js" . 1418)
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSession/EditDropInSessionFormSpec.jsx" . 1263)
+ ("/Users/matt/projects/poc-oliver/common/src/locale.js" . 239)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/dropInSessions/updateDropInSessionSpec.js" . 97)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/updateDropInSessionHandlerSpec.js" . 109)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/main.scss" . 144)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20151204113750-add-organization-service-types.js" . 677)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20151216154859-add-drop-in-sessions.js" . 65)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/field/type.jsx" . 987)
+ ("/Users/matt/projects/poc-oliver/client/app/components/form/field/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/form/field/index.jsx"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dataSelectSpec.js" . 1540)
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/serviceTypesForDataSelect.js" . 412)
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/index.js" . 87)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/serviceTypesForDataSelectSpec.js" . 929)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/serviceTypesForDataSelectSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/serviceTypes/serviceTypesForDataSelect.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceTypes/rhyyaServiceTypesForDataSelectSpec.js" . 169)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/_variables.scss" . 378)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/_mixins.scss" . 77)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/_functions.scss" . 41)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/_forms.scss" . 8872)
+ ("/Users/matt/projects/poc-oliver/client/app/components/CheckboxGroup/styles.scss" . 245)
+ ("/Users/matt/projects/poc-oliver/client/app/components/CheckboxGroup/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/CheckboxGroup/styles.scss"))
+ ("/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionList/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/test/rhyya/components/DropInSessionList/DropInSessionListPageControlsSpec.jsx"))
+ ("/Users/matt/projects/poc-oliver/api/api/main.js" . 2006)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/organizations/memberSpec.js" . 1737)
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/visitReports/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/api/concepts/visitReports/getVisitReportForDataExport.js"))
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceReferrals/copyReferralSpec.js" . 1687)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceReferrals/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/concepts/serviceReferrals/copyReferralSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/concepts/serviceReferrals/copyReferral.js" . 74)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/presenters/presentReportSpec.js" . 63)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/presenters/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/unit/presenters/presentDropInSessionSpec.js"))
+ ("/Users/matt/projects/poc-oliver/api/api/presenters/presentReportReferral.js" . 58)
+ ("/Users/matt/projects/poc-oliver/api/api/routes/serviceReferrals/createReferralHandler.js" . 349)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/routes/dropInSessions/findDropInSessionHandlerSpec.js" . 405)
+ ("/Users/matt/projects/poc-oliver/api/api/authorization/index.js" . 137)
+ ("/Users/matt/projects/poc-oliver/api/bin/www" . 302)
+ ("/Users/matt/projects/poc-oliver/client/gulp/test.js" . 431)
+ ("/Users/matt/projects/poc-oliver/client/app/stylesheets/_colors.scss" . 282)
+ ("/Users/matt/projects/poc-oliver/api/bin/deploy-production" . 370)
+ ("/Users/matt/projects/poc-oliver/api/gulp/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/gulp/env.js"))
+ ("/Users/matt/projects/poc-oliver/common/bin/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/bin/ci"))
+ ("/Users/matt/projects/poc-oliver/client/gulp/css.js" . 1266)
+ ("/Users/matt/projects/poc-oliver/api/bin/deploy-integration" . 140)
+ ("/Users/matt/projects/poc-oliver/common/gulp/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/common/gulp/test.js"))
+ ("/Users/matt/projects/poc-oliver/client/webpack.config.js" . 465)
+ ("/Users/matt/projects/poc-oliver/client/.babelrc" . 35)
+ ("/Users/matt/projects/poc-oliver/client/gulp/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/gulp/css.js"))
+ ("/Users/matt/projects/poc-oliver/client/bin/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/bin/ci"))
+ ("/Users/matt/projects/poc-oliver/client/bin/ci" . 911)
+ ("/Users/matt/projects/poc-oliver/client/app/components/NativeDatePicker/NativeDatePicker.jsx" . 674)
+ ("/Users/matt/projects/poc-oliver/client/app/components/NativeDatePicker/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/NativeDatePicker/NativeDatePicker.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/ServiceReferralListPageControls.jsx" . 1175)
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/container.jsx" . 904)
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/container.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/redux/connect.jsx" . 298)
+ ("/Users/matt/projects/poc-oliver/client/app/redux/create_reducer.js" . 371)
+ ("/Users/matt/projects/poc-oliver/client/app/components/App/container.js" . 275)
+ ("/Users/matt/projects/poc-oliver/client/app/components/App/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/App/container.js"))
+ ("/Users/matt/projects/poc-oliver/client/test/components/modal_form_nav/index_spec.jsx" . 144)
+ ("/Users/matt/projects/poc-oliver/client/app/components/authenticated/default_layout.jsx" . 118)
+ ("/Users/matt/projects/poc-oliver/client/app/components/styleguide/index.jsx" . 213)
+ ("/Users/matt/projects/poc-oliver/client/test/components/authenticated/default_layout_spec.jsx" . 89)
+ ("/Users/matt/projects/poc-oliver/client/app/components/authenticated/container.js" . 342)
+ ("/Users/matt/projects/poc-oliver/client/test/components/ServiceReferralList/ServiceReferralListControlsSpec.jsx" . 225)
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/ServiceReferralListControls.jsx" . 306)
+ ("/Users/matt/projects/poc-oliver/client/test/actions/data_select_spec.js" . 508)
+ ("/Users/matt/projects/poc-oliver/client/app/components/ServiceReferralList/ServiceReferralList.jsx" . 1991)
+ ("/Users/matt/projects/poc-oliver/client/app/actions/data_select.js" . 687)
+ ("/Users/matt/projects/poc-oliver/api/api/migrations/20151120114548-add-referral-state-column.js" . 664)
+ ("/Users/matt/projects/poc-oliver/client/app/components/authenticated/render_layout.jsx" . 219)
+ ("/Users/matt/projects/poc-oliver/client/app/components/public/index.jsx" . 74)
+ ("/Users/matt/projects/poc-oliver/client/app/components/public/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/public/layout.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/public/layout.jsx" . 118)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_list/index.jsx" . 840)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/organization/accounts"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_list/page_header.jsx" . 729)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_list/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/organization_list/page_header.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/new.jsx" . 279)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/create_container.jsx" . 283)
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/organization_form/new_layout.jsx"))
+ ("/Users/matt/projects/poc-oliver/client/app/components/organization_form/new_layout.jsx" . 866)
+ ("/Users/matt/projects/poc-oliver/client/test/components/ServiceReferralList/ServiceReferralListPageControlsSpec.jsx" . 241)
+ ("/Users/matt/projects/poc-oliver/client/app/reducers/data_select_reducer.js" . 315)
+ ("/Users/matt/projects/poc-oliver/common/src/models/referralState.js" . 272)
+ ("/Users/matt/projects/poc-oliver/api/api/models/listServiceReferralsForOrg.js" . 826)
+ ("/Users/matt/projects/poc-oliver/api/test/unit/models/listServiceReferralsForOrgSpec.js" . 1181)
+ ("/Users/matt/projects/poc-oliver/client/test/components/DataSource/DataSourceSpec.jsx" . 186)
+ ("/Users/matt/projects/poc-oliver/client/app/components/DataSource/DataSource.jsx" . 410)
+ ("/Users/matt/projects/poc-oliver/api/test/features/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/features/referrals"))
+ ("/Users/matt/projects/poc-oliver/api/test/support/fixtures/serviceReferral.js" . 5481)
+ ("/Users/matt/projects/poc-oliver/api/test/features/referrals/copy_referral_spec.rb" . 423)
+ ("/Users/matt/projects/poc-oliver/api/test/features/referrals/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/api/test/features/referrals/search_referrals_spec.rb"))
+ ("/Users/matt/projects/poc-oliver/api/test/features/support/page_models/referral_list.rb" . 766)
+ ("/Users/matt/projects/poc-oliver/client/app/components/Select/"
+	(dired-filename . "/Users/matt/projects/poc-oliver/client/app/components/Select/Select.jsx")))
