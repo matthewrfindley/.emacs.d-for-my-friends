@@ -42,12 +42,13 @@
  'js-mode-hook
  (lambda ()
    (flycheck-mode 1)
+   (eslint-set-closest)
    (auto-indent-mode 1)
    (linum-mode 1)))
 
 (add-hook 'coffee-mode-hook
- (lambda ()
-   (smart-indent-rigidly-mode)))
+          (lambda ()
+            (smart-indent-rigidly-mode)))
 
 (add-hook
  'sass-mode-hook
@@ -102,6 +103,7 @@
    (linum-mode 1)
    (set-node-modules-path)
    (flycheck-mode)
+   (eslint-set-closest)
    ))
 
 (provide 'my-hooks)

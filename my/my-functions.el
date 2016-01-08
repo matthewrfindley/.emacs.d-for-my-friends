@@ -221,11 +221,23 @@ WIP on branchname: short-sha commit-message"
 (defun set-exec-path-from-external ()
   (interactive)
   (let ((external-path (split-string
-   (shell-command-to-string
-    "/bin/zsh -ci 'echo $PATH' 2> /dev/null") ":")))
+                        (shell-command-to-string
+                         "/bin/zsh -ci 'echo $PATH' 2> /dev/null") ":")))
     (print external-path)
     (dolist (path external-path)
       (unless (member path exec-path)
         (add-to-list 'exec-path path)))))
+
+(defun eslint-set-closest (&optional dir)
+        (interactive)
+        (let ((dir (or dir default-directory))
+                    (eslintrc (concat dir "/.eslintrc")))
+            (if (file-exists-p eslintrc)
+                    (progn
+                        (setq flycheck-eslintrc eslintrc)
+                        (setq flycheck-javascript-eslint-executable
+                                    (concat dir "/node_modules/.bin/eslint")))
+                (if (string= dir "/") nil
+                  (eslint-set-closest (expand-file-name ".." dir))))))
 
 (provide 'my-functions)
