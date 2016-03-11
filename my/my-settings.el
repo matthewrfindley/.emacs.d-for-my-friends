@@ -34,4 +34,7 @@
 
 (flycheck-add-mode 'javascript-eslint 'web-mode)
 
+(setq magit-commit-show-diff nil
+      magit-revert-buffers 1)
+
 (provide 'my-settings)
