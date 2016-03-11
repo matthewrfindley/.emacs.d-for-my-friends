@@ -106,4 +106,12 @@
    (eslint-set-closest)
    ))
 
+(add-hook
+ 'js2-mode-hook
+ (lambda ()
+   (linum-mode 1)
+   (local-unset-key (kbd "M-j"))
+   (eslint-set-closest)
+   (flycheck-mode 1)))
+
 (provide 'my-hooks)
