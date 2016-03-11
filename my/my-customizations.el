@@ -48,6 +48,7 @@
  '(global-auto-revert-mode t)
  '(global-auto-revert-non-file-buffers t)
  '(global-highline-mode t)
+ '(global-hl-line-mode t)
  '(global-linum-mode nil)
  '(global-visible-mark-mode t)
  '(global-whitespace-mode nil)

@@ -12,7 +12,6 @@
    ido
    ido-ubiquitous
    visible-mark
-   highline
    dired
    dired-efap
    flycheck
