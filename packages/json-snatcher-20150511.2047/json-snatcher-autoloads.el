@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "json-snatcher" "json-snatcher.el" (22019 8547
+;;;### (autoloads nil "json-snatcher" "json-snatcher.el" (22536 8675
 ;;;;;;  0 0))
 ;;; Generated autoloads from json-snatcher.el
 
@@ -11,6 +11,11 @@
 Print the path to the JSON value under point, and save it in the kill ring.
 
 \(fn)" t nil)
+
+;;;***
+
+;;;### (autoloads nil nil ("json-snatcher-pkg.el") (22119 28811 0
+;;;;;;  0))
 
 ;;;***
 

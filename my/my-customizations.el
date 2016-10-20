@@ -30,6 +30,7 @@
     ("9dae95cdbed1505d45322ef8b5aa90ccb6cb59e0ff26fef0b8f411dfc416c552" "cfe99939ab2423c01d34c97f6ae40e1db965564a7acb17731eb049a2e5e76392" "fc5fcb6f1f1c1bc01305694c59a1a861b008c534cae8d0e48e4d5e81ad718bc6" default)))
  '(delete-old-versions t)
  '(delete-selection-mode t)
+ '(dired-efap-initial-filename-selection nil)
  '(display-time-mode t)
  '(electric-pair-mode nil)
  '(electric-pair-skip-self nil)
@@ -114,6 +115,9 @@
  '(nxml-child-indent 2)
  '(nxml-outline-child-indent 2)
  '(org-return-follows-link t)
+ '(package-selected-packages
+   (quote
+    (haml-mode js2-mode json-mode scss-mode stumpwm-mode jsx-mode)))
  '(package-user-dir "~/.emacs.d/packages")
  '(proced-auto-update-flag t)
  '(proced-auto-update-interval 1)

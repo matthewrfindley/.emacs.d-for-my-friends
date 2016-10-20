@@ -1,32 +1,62 @@
 
 ;; ----- smex-history -----
 (
- eval-buffer
- package-list-packages
- customize
- javascript-mode
  sort-lines
- comment-region
- uncomment-region
+ upcase-region
+ capitalize-region
+ indent-buffer
+ kill-buffer-and-window
+ goto-line
+ table-insert-row
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 1)
+ (package-install . 2)
  (multi-term-dedicated-open . 1)
  (toggle-window-split . 1)
- (kill-buffer-and-window . 1)
- (sort-lines . 4)
- (javascript-mode . 3)
+ (kill-buffer-and-window . 2)
+ (sort-lines . 29)
+ (javascript-mode . 6)
  (uncomment-region . 2)
- (comment-region . 6)
+ (comment-region . 7)
  (wgrep-change-to-wgrep-mode . 1)
- (magit-blame . 7)
- (goto-line . 1)
+ (magit-blame . 67)
+ (goto-line . 14)
  (make-directory . 1)
  (multi-term . 3)
- (smartparens-mode . 2)
- (customize . 1)
- (package-list-packages . 1)
- (eval-buffer . 2)
+ (smartparens-mode . 12)
+ (customize . 4)
+ (package-list-packages . 6)
+ (eval-buffer . 4)
+ (json-mode . 2)
+ (sql-mode . 8)
+ (zone-mode . 6)
+ (zone . 5)
+ (text-mode . 1)
+ (upcase-region . 5)
+ (recover-file . 1)
+ (table-insert . 3)
+ (table-insert-row . 10)
+ (table-delete-row . 1)
+ (table-insert-column . 1)
+ (table-justify . 1)
+ (table-shorten-cell . 2)
+ (web-mode-snippet-insert . 1)
+ (hippie-expand . 1)
+ (js2-jsx-mode . 7)
+ (js2-mode . 6)
+ (web-mode . 2)
+ (git-timemachine . 1)
+ (switch-to-buffer . 1)
+ (highline-mode . 2)
+ (global-highline-mode . 1)
+ (capitalize-word . 1)
+ (upcase-word . 1)
+ (string-rectangle . 2)
+ (text-scale-increase . 3)
+ (smart-rigid-indent . 1)
+ (fill-region . 1)
+ (indent-buffer . 1)
+ (capitalize-region . 1)
 )
