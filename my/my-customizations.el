@@ -117,7 +117,7 @@
  '(org-return-follows-link t)
  '(package-selected-packages
    (quote
-    (haml-mode js2-mode json-mode scss-mode stumpwm-mode jsx-mode)))
+    (magit haml-mode js2-mode json-mode scss-mode stumpwm-mode jsx-mode)))
  '(package-user-dir "~/.emacs.d/packages")
  '(proced-auto-update-flag t)
  '(proced-auto-update-interval 1)
